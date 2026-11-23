@@ -1,0 +1,24 @@
+{
+  "name": "supplementer-vc111.aab",
+  "parts": [
+    "supplementer-vc111.aab.part000",
+    "supplementer-vc111.aab.part001",
+    "supplementer-vc111.aab.part002",
+    "supplementer-vc111.aab.part003",
+    "supplementer-vc111.aab.part004",
+    "supplementer-vc111.aab.part005",
+    "supplementer-vc111.aab.part006",
+    "supplementer-vc111.aab.part007"
+  ],
+  "sizes": [
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    7647711
+  ],
+  "total": 81048031
+}

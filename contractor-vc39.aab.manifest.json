@@ -1,0 +1,30 @@
+{
+  "name": "contractor-vc39.aab",
+  "parts": [
+    "contractor-vc39.aab.part000",
+    "contractor-vc39.aab.part001",
+    "contractor-vc39.aab.part002",
+    "contractor-vc39.aab.part003",
+    "contractor-vc39.aab.part004",
+    "contractor-vc39.aab.part005",
+    "contractor-vc39.aab.part006",
+    "contractor-vc39.aab.part007",
+    "contractor-vc39.aab.part008",
+    "contractor-vc39.aab.part009",
+    "contractor-vc39.aab.part010"
+  ],
+  "sizes": [
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    10485760,
+    340593
+  ],
+  "total": 105198193
+}
